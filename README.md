@@ -71,3 +71,9 @@ kubectl apply -f deployment/
 Check running pods:
 
 kubectl get pods
+
+
+
+![alt text](image.png)
+
+https://chatgpt.com/s/m_68c5c7e8ebb8819186b9a51b6472a9f0
