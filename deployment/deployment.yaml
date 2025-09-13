@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: react-app
-        image: your-dockerhub-username/react-cicd-pipeline:latest
+        image: jyothi150/react-cicd-pipeline:latest
         ports:
         - containerPort: 80
